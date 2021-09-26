@@ -6,7 +6,7 @@
 </center>
 </p>
 
-### What is Vaim-Samay-LinkExploit ?
+### What is Vaim-Samay-LinkEx?
 > This is use for track location or logout all google account using only one click.
 > Many times you just want to track or prank.
 > If you find yourself in that situation then this Tool is the perfect tool for you!
