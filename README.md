@@ -15,6 +15,7 @@
 - Track Exact Location
 - Remove all Google account 
 - The author is not responsible for any issues or damage caused by this program and don't use illegel purpose
+- This exploit doesn't work in only android google chrome 
 
 <br>
 
