@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://img.shields.io/badge/Vaim-Samay-green" width="250" height="25"><br>
+<img src="https://img.shields.io/badge/Vaim-Samay-green" width="150" height="25"><br>
 <img title="Vaim-IP" src="https://img.shields.io/badge/version-1.0-red" width="100" height="25"><br>
 <!--img src="vaim-ip.png"><br-->
 </center>
