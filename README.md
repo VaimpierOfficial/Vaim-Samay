@@ -46,6 +46,6 @@ Instagram [@Samay](https://instagram.com/_vilen_bhoi_)<br>
 Youtube [@Samay](https://www.youtube.com/c/CYBOGHACKERS)
 
 ### For Video Tutorial
-- <a href="#"> CLICK HERE AND SEE TUTORIAL ON LAPTOP</a>
+- <a href="#"> CLICK HERE AND SEE TUTORIAL FOR LAPTOP</a>
 - <a href="#"> CLICK HERE AND SEE TUTORIAL FOR ANDROID</a>
 
